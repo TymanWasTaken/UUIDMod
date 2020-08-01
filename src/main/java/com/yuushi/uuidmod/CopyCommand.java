@@ -21,13 +21,13 @@ public class CopyCommand extends CommandBase {
 	@Override
 	public String getCommandName() {
 		// TODO Auto-generated method stub
-		return "copy";
+		return "umcopy";
 	}
 	
 	@Override
 	public String getCommandUsage(ICommandSender sender) {
 		// TODO Auto-generated method stub
-		return "copy <text>";
+		return "umcopy <text>";
 	}
 	
 	@Override
