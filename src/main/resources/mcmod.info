@@ -1,0 +1,16 @@
+[
+{
+  "modid": "uuidmod",
+  "name": "UUIDMod",
+  "description": "Mod to get player's UUIDs",
+  "version": "${version}",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Yuushi"],
+  "credits": "Made by Yuushi",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
