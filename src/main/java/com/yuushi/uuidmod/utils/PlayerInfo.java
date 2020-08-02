@@ -1,6 +1,4 @@
-package com.yuushi.uuidmod;
-
-import com.yuushi.uuidmod.UUIDCommand;
+package com.yuushi.uuidmod.utils;
 
 public class PlayerInfo {
 	private String uuid;
