@@ -1,4 +1,4 @@
-package com.yuushi.uuidmod;
+package com.yuushi.uuidmod.commands;
 
 import java.awt.Toolkit;
 import java.awt.datatransfer.Clipboard;
