@@ -35,11 +35,11 @@ public class CopyCommand extends CommandBase {
 
 	@Override
 	public void processCommand(ICommandSender sender, String[] args) throws CommandException {
-		if (args.length < 1 || args.length > 1) {
+		if (args.length < 1) {
 			return;
 		}
 		else {
-			String text = args[0];
+			String text = String.join(" ", args);
 			StringSelection stringSelection = new StringSelection(text);
 			Clipboard clipboard = Toolkit.getDefaultToolkit().getSystemClipboard();
 			clipboard.setContents(stringSelection, null);
