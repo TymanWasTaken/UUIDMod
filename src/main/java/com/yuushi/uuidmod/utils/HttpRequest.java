@@ -20,7 +20,7 @@
  * IN THE SOFTWARE.
  */
 
-package com.yuushi.uuidmod;
+package com.yuushi.uuidmod.utils;
 
 import static java.net.HttpURLConnection.HTTP_BAD_REQUEST;
 import static java.net.HttpURLConnection.HTTP_CREATED;
